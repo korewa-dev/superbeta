@@ -1,0 +1,29 @@
+{
+  "name": "vanga-vitanastika-sveltia-build",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "watch": "chokidar \"hoved/content/**/*.md\" -c \"npm run build\" --initial --verbose",
+    "serve": "live-server ../base_patched_site/hoved --entry-file=pages/a_hus/en.html",
+    "dev": "concurrently \"npm run watch\" \"npm run serve\""
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^13.0.2",
+    "nodemon": "^3.1.14"
+  },
+  "version": "1.0.0",
+  "description": "- `admin/config.yml` -> Sveltia CMS config - content folders -> markdown entries - base_patched_site -> static output",
+  "main": "index.js",
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^10.0.4",
+    "live-server": "^1.2.0",
+    "markdown-it": "^14.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

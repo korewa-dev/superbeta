@@ -1,0 +1,26 @@
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_270_61020)">
+    <rect width="20" height="15" fill="white"/>
+    
+    <!-- Darker green -->
+    <rect width="20" height="15" fill="#216449"/>
+
+    <!-- Centered larger globe -->
+    <g transform="translate(10 7.5)">
+      <!-- Darker red globe -->
+      <circle cx="0" cy="0" r="4.8" fill="#AA473B"/>
+
+      <!-- Thicker black texture lines -->
+      <ellipse cx="0" cy="0" rx="3.2" ry="4.8" stroke="black" stroke-width="0.6" fill="none"/>
+      <ellipse cx="0" cy="0" rx="4.8" ry="1.92" stroke="black" stroke-width="0.6" fill="none"/>
+      <line x1="-4.8" y1="0" x2="4.8" y2="0" stroke="black" stroke-width="0.6"/>
+      <line x1="0" y1="-4.8" x2="0" y2="4.8" stroke="black" stroke-width="0.6"/>
+    </g>
+
+  </g>
+  <defs>
+    <clipPath id="clip0_270_61020">
+      <rect width="20" height="15" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

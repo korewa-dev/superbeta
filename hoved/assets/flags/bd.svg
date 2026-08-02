@@ -1,0 +1,17 @@
+<svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_270_61020)">
+    <rect width="20" height="15" fill="white"/>
+    
+    <!-- Darker green -->
+    <rect width="20" height="15" fill="#216449"/>
+
+    <!-- Centered red dot -->
+    <circle cx="10" cy="7.5" r="4.8" fill="#AA473B"/>
+
+  </g>
+  <defs>
+    <clipPath id="clip0_270_61020">
+      <rect width="20" height="15" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

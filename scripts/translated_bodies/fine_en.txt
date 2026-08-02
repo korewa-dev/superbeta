@@ -1,0 +1,294 @@
+<div style="display: flex; flex-direction: column; gap: 2rem;">
+
+        <article class="feature-card" style="border-left: 4px solid var(--accent, #a855f7);">
+          <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;">
+            <h3 style="margin: 0; font-size: 1.5rem;">REGULATORY NOTICE AND BINDING SYSTEM AGREEMENT</h3>
+            <span style="font-size: 0.85rem; opacity: 0.8; font-weight: 500;">Effective: 30 Dec 2016 ┃ Exhaustive Update: 01 Jul 2026</span>
+          </div>
+          <p style="font-weight: 600; font-style: italic; color: var(--text-muted);">NOTICE:</p>
+          <p>Please review these comprehensive Master Terms and Conditions with complete attention before interacting with, accessing, browsing, submitting data to, downloading from, or corresponding with Vanga Vitanastika. By navigating, utilizing resources, submitting personal accounts, reading texts, or initiating electronic correspondence with the administrative team through this website, its underlying code structures, file repositories, database systems, secure intake pipelines, public mirrors, or informational pages (collectively termed the "Platform"), you unequivocally affirm that you have read, meticulously evaluated, understood, and permanently bound your interactions to every section, clause, subsection, and provision detailed within this exhaustive legal framework.</p>
+          <p>These Master Terms construct an irrevocable regulatory contract between the technical and editorial administrators of Vanga Vitanastika and all external visitors, academic researchers, narrative contributors, interview subjects, or correspondents. If you do not accept, fully comprehend, or match your behavior to the definitions of this Document, you must immediately terminate your session and are permanently prohibited from using any asset or database connected with this Platform.</p>
+          <p style="margin-bottom: 0;">No single piece of text, narrative, historical analysis, script description, translations, or administrative response on this site constitutes certified legal defense, digital security configuration counsel, personal protection blueprints, migration mechanics, or psychological therapy. Users experiencing local physical distress, societal isolation, or active state tracking are strongly urged to connect with accredited international humanitarian networks or trusted digital security specialists.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 01</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Nature, Scope, and Educational Mandate of the Platform</h3>
+          </div>
+          <p>Vanga Vitanastika is established as an independent, strictly secular, entirely non-commercial educational repository and intellectual sanctuary. Its primary directive is the rigorous mapping, archiving, translation, and analytical deconstruction of atheism, agnosticism, secular humanism, freethought, logic, rationalism, materialist philosophy, and scientific histories within Bangladesh and the broader South Asian cultural landscape. The Platform stands as a localized defense of freedom of conscience, offering space for historical-critical investigations of religious frameworks, faith-driven societal expectations, and traditional socio-legal structures.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">1.1 Promotion of Independent Critique</h4>
+          <p>The Platform provides a structured infrastructure where historical doctrines, theological assumptions, and dogmatic systems can be questioned without social censorship or pressure. It approaches these investigations from a position of materialist analysis and radical rationalism.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">1.2 Support for Freedom of Conscience</h4>
+          <p>We actively document the lived experiences, intellectual evolutions, and systemic discrimination faced by non-believers, apostates, and secular dissenters who are marginalized or criminalized by traditional or institutional structures.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">1.3 Separation from Active Movements</h4>
+          <p style="margin-bottom: 0;">While the Platform provides open educational documentation, it functions independently of any specific domestic political party, underground faction, or foreign state-sponsored geopolitical movement. It remains a self-governing intellectual archive.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 02</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Platform Structure and Controlled Access Models</h3>
+          </div>
+          <p>Vanga Vitanastika is engineered explicitly as a static, pre-compiled, highly restricted informational archive and curated publication vehicle. It is not an unmonitored open-access public forum, interactive social networking site, or automatic user-generated blog platform. Users do not possess, and may not claim, natural rights to write directly to the database, alter deployment scripts, or configure code repositories.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">2.1 Technical Hierarchy and Access Isolation</h4>
+          <p>All direct interface privileges, repository manipulations, deployment keys, server terminal actions, and base configuration updates are restricted to the core administrative network. Users interact strictly with read-only static elements or isolated, protected intake gateways.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">2.2 Prohibited Penetration Tactics</h4>
+          <p style="margin-bottom: 0;">Any external use of automated security scanners, directory traversal tools, vulnerability probes, API fuzzers, or aggressive network scrapers designed to identify configuration flaws, server paths, or user access endpoints is strictly prohibited and classified as a hostile system breach.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 03</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Submission-Based Publishing Architecture</h3>
+          </div>
+          <p>Every single line of text, personal narrative, philosophical manuscript, translation project, or oral history interview published on the Platform must pass through a strict and multi-layered internal validation process. Submitting material to an administrator through a secure portal does not generate an automatic right to publication, an immediate confirmation reply, or a permanent hosting guarantee.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">3.1 Rigorous Quality and Content Vetting</h4>
+          <p>Submissions are systematically analyzed by the administrative team based on historical relevance, educational precision, logical alignment, validation of source facts, and, most critically, the real-world physical safety risks presented to the contributor or third parties mentioned in the text.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">3.2 Protection Against Infiltration and Provocation</h4>
+          <p style="margin-bottom: 0;">The Platform will immediately discard, strip, and permanently erase any submission that demonstrates patterns of state-sponsored intelligence fishing, domestic tracking traps, religious entrapment tactics, or targeted psychological provocations.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 04</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Absolute Editorial Independence and Discretion</h3>
+          </div>
+          <p>The core administrative and editorial team retains sole, unchallengeable, and absolute governance over the lifecycle of all materials hosted on the Platform. The team owes no editorial explanation, stylistic justification, or procedural reporting to any external contributor, reader group, or tracking entity.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">4.1 Modification and Structuring Authority</h4>
+          <p>Editors reserve the complete right to alter formatting syntax, adjust paragraph distributions for improved readability, clean spelling and grammatical errors, translate text across supported languages, shorten excessively dense sections, and scrub identifying regional slang.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">4.2 Archival and Removal Controls</h4>
+          <p style="margin-bottom: 0;">The team may at any moment, without warning and without legal liability, temporarily take down, permanently archive, alter the pseudonymity of, or completely delete any published article or historical interview to protect localized networks or update architectural paths.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 05</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Commitment to Intellectual Independence and Scope of Critique</h3>
+          </div>
+          <p>The foundational intellectual platform of Vanga Vitanastika operates on a vital distinction between the critical, relentless deconstruction of beliefs, texts, and ideologies versus the coordination of physical harm or harassment against individual human populations. Ideas possess no natural right to protection from critique; human beings, however, possess fundamental rights to safety and freedom from extrajudicial targeting.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">5.1 Rigorous Deconstruction of Faith Systems</h4>
+          <p>All religious traditions, institutional dogmas, scriptures, theological systems, faith-based legal frameworks, and traditional taboos may be picked apart, analyzed historically, and criticized on this Platform using uncompromising rationalist and materialist models.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">5.2 Exclusion of Communal Violence</h4>
+          <p style="margin-bottom: 0;">The Platform strictly forbids the use of its educational space to incite physical pogroms, coordinate communal riots, encourage ethnic discrimination, or assist state-sponsored purges against any minority or majority group based on their background or faith identity.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 06</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Content Submission, Universal Licensing, and Archival Rights</h3>
+          </div>
+          <p>When you transmit written essays, personal histories, interviews, transcripts, or translations to the Platform, you formally confirm that you hold the lawful permissions and rights to share that material. You do not surrender your underlying copyright; however, you grant the Platform a unique operational license.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">6.1 Terms of the Universal License</h4>
+          <p>You grant Vanga Vitanastika a worldwide, non-exclusive, royalty-free, irrevocable, and perpetual license to host, store in encrypted arrays, copy to backup nodes, translate, render as static HTML, and distribute your submission through all present and future public mirrors of the Platform.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">6.2 Survival of Material</h4>
+          <p style="margin-bottom: 0;">This license is designed to survive any personal change in worldview or subsequent digital retraction, ensuring that the historical and educational records preserved on the Platform remain stable for long-term academic research.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 07</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Public Availability and Long-Term Digital Traces</h3>
+          </div>
+          <p>Material approved for publication is pushed directly into public-facing static web nodes. Contributors must think through the personal, family, and legal consequences of publication before sharing their material with the editorial team.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">7.1 Third-Party Scraping and Indexing</h4>
+          <p>Once material is live, it can and will be instantly indexed by automated search engine crawlers, cached by third-party web archives, screenshotted by hostile tracking groups, and copied into offline databases entirely outside the operational reach of the Platform.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">7.2 Limits of Retrospective Deletion</h4>
+          <p style="margin-bottom: 0;">If the Platform executes a deletion request inside its own code repositories, it possesses absolutely zero technical mechanism or legal leverage to force external search tools or hostile mirrors to clear their historical snapshots.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 08</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Contributor Representations and Warranties</h3>
+          </div>
+          <p>Every contributor who communicates text or logs historical testimony with the Platform represents and warrants that their material is authentic, true to historical events within their knowledge, and completely free from malicious fraud.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">8.1 Prevention of Deceptive Infiltration</h4>
+          <p>You explicitly warrant that your submission is not an artificial construct created to damage the historical reputation of the secular community or provide a false pretext for local law enforcement to target the Platform's operational infrastructure.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">8.2 Indemnity for False Documentation</h4>
+          <p style="margin-bottom: 0;">Submitting intentionally fabricated data or malicious text that triggers institutional danger for other participants constitutes a severe violation of these Master Terms and terminates all your interactions with the Platform.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 09</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Absolute Anonymity, Pseudonymity Protocols, and Data Protection Limits</h3>
+          </div>
+          <p>Vanga Vitanastika maintains an aggressive data minimization policy designed to isolate user identities from local mass surveillance systems, domestic intelligence groups, and fundamentalist tracking cells.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">9.1 Complete Absence of Identity Tracking</h4>
+          <p>The Platform does not collect, request, or store real legal names, official identification numbers, residential addresses, personal phone paths, or biometric markers. It operates entirely without traditional user account registrations or profiling cookies.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">9.2 Mandatory Image and File Purging</h4>
+          <p>The administrative team processes all incoming text attachments through specialized scripts that strip away document author histories, geolocation records, camera EXIF tags, and underlying operational system metadata before any rendering occurs.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">9.3 Systemic Pseudonym Allocation</h4>
+          <p style="margin-bottom: 0;">All narratives and translations are assigned randomized, non-repeating pseudonyms or standardized educational tags. Contributors must never insert their real identifiers or specific localized landmarks into the core text fields.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 10</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Technical Networks, Cryptographic Standards, and Processing Limits</h3>
+          </div>
+          <p>To distribute content reliably across regions enforcing severe digital tracking, the Platform relies on secure third-party hosting networks, static cloud architectures, content delivery networks, and distributed transmission nodes.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">10.1 Processing Across Jurisdictions</h4>
+          <p>By interacting with our portals, you acknowledge that your routing packet data naturally transits international routers, undergoing technical security sanitization, automated spam filtering, and temporary security node analysis.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">10.2 Disclaimer of Technical Infallibility</h4>
+          <p style="margin-bottom: 0;">While we select privacy-focused, zero-log server clusters, the Platform cannot grant an absolute mathematical warranty against zero-day cryptographic exploits, hardware backdoors within global switching equipment, or physical data-center seizures by superpower intelligence coalitions.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 11</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Re-Identification Risks and Contextual Hazards</h3>
+          </div>
+          <p>Anonymity on the internet is never merely a matter of withholding a legal name. True protection depends heavily on eliminating secondary contextual identifiers that sophisticated third parties can compile over time.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">11.1 Stylometric and Linguistic Profiling</h4>
+          <p>Hostile monitoring cells use automated text software to match unique writing rhythms, favorite idioms, signature sentence lengths, and punctuation habits against public social profiles or personal messaging histories.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">11.2 Contextual Data Overlaps</h4>
+          <p style="margin-bottom: 0;">Even under a protective pseudonym, an essay describing an incredibly specific local family argument, a rare university incident, or matching exact timelines across public blogs can allow local trackers to identify an author. Contributors must generalize all circumstantial timelines.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 12</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Financial Independence, Non-Commercial Status, and Exclusion of Funds</h3>
+          </div>
+          <p>Vanga Vitanastika operates under a radical non-commercial, completely autonomous model to protect its intellectual space from outside financial leverage or institutional compromise.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">12.1 Exclusion of Commercial Revenue</h4>
+          <p>The Platform completely prohibits the integration of display advertisements, tracking pixels, sponsored corporate blog placements, marketing frameworks, or user data monetizations.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">12.2 Rejection of Direct Donations</h4>
+          <p>We do not request, process, or accept direct financial donations, digital currency gifts, crowdsourced capital, or institutional grants. The site is maintained fully through the independent resources of its core tech team.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">12.3 Elimination of Audit and Control Paths</h4>
+          <p style="margin-bottom: 0;">By operating entirely without bank accounts, financial transactions, or donation tracking ledgers, the Platform completely eliminates the paths that state tax registries or hostile intelligence agencies use to trace secular actors through financial transactions.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 13</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">External Support, Humanitarian Networks, and Relocation Disclaimers</h3>
+          </div>
+          <p>For educational depth and contextual orientation, the Platform may provide informational resource links to separate, non-affiliated international humanitarian defense networks, legal emergency funds, or secular asylum networks.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">13.1 Complete Institutional Separation</h4>
+          <p>These external support organizations are managed entirely separate from Vanga Vitanastika. The Platform exercises absolutely zero operational control, financial management, intake governance, or case selection oversight over their teams.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">13.2 Separation of Grants and Assets</h4>
+          <p>If any independent writer, translator, or editor associated with this Platform receives personal relocation aid, safety grants, or travel scholarships from an external humanitarian body, such aid is completely separate from this site. It does not constitute commercial funding or corporate control of the Platform.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">13.3 No Guarantee of Outcome</h4>
+          <p style="margin-bottom: 0;">The Platform holds no authority to grant visas, distribute humanitarian capital, or clear migration paths. It assumes zero legal liability for the application rejections, intake delays, processing errors, or sudden policy shifts of external organizations.</p>
+        </article>
+
+        <article class="feature-card" style="border-left: 4px solid var(--accent, #a855f7);">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 14</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Technical, Infrastructure, and Hosting Layer Force Majeure</h3>
+          </div>
+          <p>The Platform and its administrative maintainers are completely absolved from any operational duties, code delivery commitments, site availability parameters, or response times in the event of systemic failures caused by forces completely outside human calculation or direct control.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">14.1 Scope of Technical Outages</h4>
+          <p>This distinct layer of "Force Majeure" explicitly protects the Platform from liability during wide-scale undersea fiber optic cable cuts, regional telecommunication router routing collapses, global domain-name-system (DNS) poisonous hijacking attacks, data-center power grid failure events, fire or physical damage inside cloud storage facilities, upstream server host liquidations, or orbital satellite data path blockages.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">14.2 Algorithmic and Network Warfare</h4>
+          <p style="margin-bottom: 0;">Furthermore, this technical "Force Majeure" layer fully covers massive algorithmic automated cyber-warfare operations, distributed denial-of-service botnet strains that overload the upstream core infrastructure, and global solar storm electromagnetic disruptions that freeze or corrupt network instances across borders.</p>
+        </article>
+
+        <article class="feature-card" style="border-left: 4px solid var(--accent, #a855f7);">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 15</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Political, State Censorship, and Jurisdictional Layer Force Majeure</h3>
+          </div>
+          <p>The Platform is entirely freed from administrative liability, hosting consistency, update schedules, or inbox response lines during macro-level socio-political, statutory, or state interventions that cannot be prevented by code or human action.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">15.1 Scope of State Blockades</h4>
+          <p>This separate layer of "Force Majeure" explicitly covers national internet blackouts, sudden state-wide mobile network shutdowns, deep-packet inspection (DPI) protocol configurations deployed by hostile state regimes, and regional border electronic communication blockades.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">15.2 Geopolitical Disruptions</h4>
+          <p style="margin-bottom: 0;">This political "Force Majeure" provision also completely encompasses targeted domain name bans by national telecommunication blocks, declarations of martial law, international military conflicts, geopolitical state crises, regional political emergencies, and arbitrary search and seizure actions targeting secondary infrastructure networks within individual nations.</p>
+        </article>
+
+        <article class="feature-card" style="border-left: 4px solid var(--accent, #a855f7);">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 16</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Operational Disruption, Personal Hazard, and Physical Force Majeure</h3>
+          </div>
+          <p>The technical team and decentralized maintainers cannot guarantee response timelines, article editing, translation validation, or continuous communication under severe domestic or physical disruptions.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">16.1 Scope of Physical Perils</h4>
+          <p>This operational layer of "Force Majeure" explicitly releases the management from all performance liabilities during violent local civil unrest, physical targeted fundamentalist tracking attacks against secular operators, targeted extrajudicial tracking crises, local power grid lockouts, structural hardware confiscations, or severe health emergencies.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">16.2 Absolute Safety Priority</h4>
+          <p style="margin-bottom: 0;">Under this physical "Force Majeure" layer, whenever the maintenance of communication or immediate code deployments presents a clear, active threat to the life, physical safety, or anonymity of the independent individuals managing this digital space, platform upkeep will be paused immediately to protect human life.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 17</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">System Access Boundaries and Penetration Defense</h3>
+          </div>
+          <p>The internal perimeter of the Platform is strictly protected. Any attempt by external actors to scan administrative paths, inject scripts into intake forms, compile server errors, or use automated brute-force testing tools against input pipelines will trigger immediate defensive countermeasures.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">17.1 Automated Traffic Isolation</h4>
+          <p>The system utilizes firewalls that isolate malicious traffic patterns, log offending network routing nodes, and automatically drop requests from compromised subnet blocks.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">17.2 Threat Intelligence Coordination</h4>
+          <p style="margin-bottom: 0;">Discovered threat patterns, hostile scanning networks, and identity harvesting vectors may be reported to international node protection registries to insulate other secular platforms from similar cyber-intrusions.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 18</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Voluntary Content Removal, De-indexing, and Archival Pruning</h3>
+          </div>
+          <p>If an individual who previously provided a narrative, interview testimony, or translation experiences a sudden escalation in local threat parameters, family danger, or legal surveillance, they may submit an expedited content retraction request.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">18.1 Execution of Internal Cleansing</h4>
+          <p>The administrative team will evaluate and process valid safety retractions as quickly as operational capacity allows, modifying the code base to wipe, further anonymize, or permanently prune the target elements from our live repositories.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">18.2 Absolute Limit of External Influence</h4>
+          <p style="margin-bottom: 0;">The user expressly understands that the Platform has zero power to alter external internet archive systems, third-party screenshots, offline file copies, or autonomous global search engines that stored historical data before the internal deletion occurred.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 19</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Governing Law, Dispute Resolution, and Transnational Separation</h3>
+          </div>
+          <p>Vanga Vitanastika functions as a decentralized, transnational digital entity distributed across international storage clouds. It maintains zero corporate office buildings, physical registries, or commercial assets within South Asia.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">19.1 Rejection of Domestic Judicial Overreach</h4>
+          <p>The Platform explicitly rejects the jurisdiction of politicized anti-blasphemy panels, domestic speech tribunals, or regional religious courts that attempt to restrict freedom of expression or demand user identification data.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">19.2 Non-Judicial Internal Review</h4>
+          <p style="margin-bottom: 0;">Any administrative disagreements, operational issues, or compliance questions regarding these Master Terms must be resolved exclusively through secure, direct communication channels reviewed internally by the platform administrators.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 20</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Severability of Provisions and Full System Agreement</h3>
+          </div>
+          <p>These Master Terms and Conditions constitute the entire agreement between your digital sessions and the operational infrastructure of Vanga Vitanastika, overriding any previous informal conversations or written guidelines.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">20.1 Maintenance of Independent Clauses</h4>
+          <p>If any distinct section, clause, sentence, or phrase within this Document is determined by an international digital compliance body or arbitration panel to be completely invalid or unenforceable under transnational treaties, that finding shall not alter the validity of any other provision.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">20.2 Continuity of Framework</h4>
+          <p style="margin-bottom: 0;">The remaining clauses, limitations, and safety provisions will continue in full force and effect, standing as an active shield around our educational space and contributor ecosystems.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 21</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Termination of Use and Network Node Defenses</h3>
+          </div>
+          <p>Accessing the educational pages, histories, and translated texts of the Platform is a conditional privilege granted strictly to individuals acting in objective good faith for educational or research purposes.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">21.1 Right to Revoke Access</h4>
+          <p>The administration retains the absolute authority to terminate any user's access, drop transmission connections, and block communication nodes instantly without prior warning or legal liability.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">21.2 Network Defenses Against Tracking Cells</h4>
+          <p style="margin-bottom: 0;">If an individual or tracking agency is caught harvesting metadata profiles, tracing author signatures, or mapping network perimeters, the Platform will deploy targeted IP blocks, isolate entire subnet clusters, and disconnect associated communication portals to preserve system safety.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Section 22</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Communication Portals, Security Reporting, and Final Statement</h3>
+          </div>
+          <p>All official administrative messages, narrative submissions, corrections, and security disclosures must be explicitly routed through the secure, verified contact endpoints listed on our web interface.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.1 Protection Against Fake Channels</h4>
+          <p>Messages sent to expired channels, unverified copycat social profiles, or third-party addresses will not be received, recognized, or validated by the administrative team.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.2 Neutralization of Hostile Inquiry</h4>
+          <p>The Platform reserves the absolute right to completely ignore, discard, or delete any incoming communication that shows signs of legal intimidation, tracking links, phishing attempts, or identity fishing carried out under bad faith.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.3 Vulnerability Disclosures</h4>
+          <p>Users who identify configuration leaks, exposed private texts, or system vulnerability patterns must report them through our secure contact channel. Security disclosures should avoid immediate public release to prevent increasing real-world safety risks for our readers and contributors.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.4 Non-Waiver of Terms</h4>
+          <p>Any failure or delay by the administrators to enforce a specific clause or limitation within these Master Terms during a system event does not establish a permanent waiver of our rights. It shall not prevent the Platform from enforcing that clause at a later date to defend the safety of the collective network.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.5 Changes to Contact Information</h4>
+          <p>The technical team may roll over encryption keys or alter contact addresses at any time to guarantee security. The current links listed on the official web instance are the only authorized channels of communication.</p>
+          <h4 style="margin: 1.5rem 0 0.5rem 0; font-size: 1.2rem;">22.6 Final Statement</h4>
+          <p style="margin-bottom: 0; font-weight: 600; font-style: italic; color: var(--text-muted);">FINAL ACTIONABLE ACCORD: These Terms exist to safeguard the independent, non-commercial, educational character of Vanga Vitanastika. By choosing to navigate this site, explore its archives, or interact with its text files, you formally declare that you fully understand its structural safeguards, agree to respect its community perimeters, and accept all real-world personal responsibilities and local technical risks connected with your usage.</p>
+        </article>
+
+      </div>

@@ -1,0 +1,68 @@
+backend:
+  name: github
+  repo: korewa-dev/superbeta
+  branch: main
+
+media_folder: "hoved/content/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: news
+    label: "📁 Events / News"
+    folder: hoved/content/d_eve/nytt
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: politics
+    label: "📁 Events / Politics"
+    folder: hoved/content/d_eve/lex
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: economy
+    label: "📁 Events / Economy"
+    folder: hoved/content/d_eve/eko
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: pen
+    label: "✍️ Posts / P_Articles"
+    folder: hoved/content/e_post/pen
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: skriv
+    label: "💬 Posts / Comments"
+    folder: hoved/content/e_post/feed
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: si
+    label: "❓ Posts / Interviews"
+    folder: hoved/content/e_post/qa
+    create: true
+    slug: "{{fields.title | slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Summary, widget: text, required: false }
+      - { name: body, label: Body, widget: markdown }

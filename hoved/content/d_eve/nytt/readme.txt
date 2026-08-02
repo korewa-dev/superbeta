@@ -1,0 +1,2 @@
+hoved\content\d_eve\nytt\name.md (hoved\pages\d_eve\nytt.html)→        hoved\pages\d_eve\nytt\name.html
+creation of .d files          -       change in nytt.html     →        creation/update/deletion of name.html

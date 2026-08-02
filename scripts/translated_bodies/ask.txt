@@ -1,0 +1,203 @@
+﻿<div style="display: flex; flex-direction: column; gap: 2rem;">
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 01</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What is this site about?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Vanga Vitanastika is an independent secular site about religion, atheism, history, culture, news, politics, economics, and society. It treats religion as organized fantasy: stories, rituals, identities, rules, and institutions built around claims that cannot be verified as reality. The main focus is Bangladesh and South Asia, with wider global examples when useful.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 02</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What topics does the site cover?</h3>
+          </div>
+          <p style="margin-bottom: 0;">The site covers history, philosophy, atheism, organized faith, social change, news, politics, economics, personal writing, interviews, comments, and public issues connected to belief and society. It follows how belief systems affect law, family pressure, identity, education, speech, culture, and public life.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 03</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Is the site only about atheism?</h3>
+          </div>
+          <p style="margin-bottom: 0;">No. Atheism is the core lens, not the only subject. The site also deals with religion, culture, secularism, philosophy, history, news, politics, and everyday life. Atheism gives the site its basic method: judge claims by evidence, not by sacred status, majority emotion, inherited authority, or fear of offense.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 04</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Is there bias?</h3>
+          </div>
+          <p>Yes. The site does not pretend to be neutral, because complete neutrality is impossible. It openly pushes atheism as the clearest way to judge reality, since atheism does not begin with gods, revelation, sacred authority, or inherited doctrine.</p>
+          <p style="margin-bottom: 0;">The site also uses philosophical ideas that fit an atheistic frame, such as Reflectionism, Existentialism, Absurdism, Reclassification Atheism, Antitheism, Humanism, Naturalism, Materialism, and Skepticism. These ideas work as tools for writing, judging, commenting on, and analyzing articles, posts, history, religion, news, politics, society, and personal experience. Reflectionism, for example, acts as a truth-checking framework: if a claim wants authority, it must earn it through evidence, reason, and scrutiny instead of revelation, tradition, popularity, or emotional force.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 05</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What is the siteâ€™s general position on religion?</h3>
+          </div>
+          <p style="margin-bottom: 0;">The site is openly critical of religion as an organized movement built around fictional or supernatural claims. It studies how religious ideas become institutions, how institutions gain authority, and how that authority affects schools, laws, family pressure, political decisions, speech, identity, and personal freedom.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 06</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Does the site respect peopleâ€™s beliefs?</h3>
+          </div>
+          <p>Yes, but the site defines respect differently from how many religious traditions expect it. Respect does not mean pretending that every claim is equally true. It does not mean softening atheistic language just to protect a sacred feeling. Respect means equal honesty.</p>
+          <p>The site respects every personâ€™s right to hold private beliefs, fantasies, myths, identities, and personal meanings. People can imagine, believe, worship, doubt, reject, reinterpret, or build their own worldview.</p>
+          <p>A religious person may say that their god, prophet, scripture, heaven, hell, realm, spirit, or divine order is real. An atheist has the same right to say that those things are fictional, unproven, and not part of reality. The atheist does not owe anyone ritual politeness toward a claim they reject. Saying â€œI reject your fictional characterâ€ can be respectful if it is said as a clear statement of disbelief, not as a threat against the person.</p>
+          <p>The siteâ€™s position is that religious people often expect respect for their worldview while failing to give the same respect back to atheistic life views. Atheists are often asked to soften their disbelief, avoid direct language, or pretend uncertainty where they see no evidence. The site rejects that imbalance.</p>
+          <p>People deserve dignity. Claims do not. A person can be treated fairly while their god, scripture, doctrine, afterlife, miracle story, or sacred authority is criticized directly. Religious truth is treated by the site as subjective belief. Atheistic criticism is treated as a reality-based rejection of claims that lack evidence. Both sides have the right to express their position, and both sides have the right to reject each otherâ€™s claims.</p>
+          <p>The site also argues that laws should change to reflect this equality. Atheists should not have to speak from a lower position, soften their disbelief, or pretend respect for supernatural claims just because religion has historic privilege. If religious people can openly say their god, prophet, scripture, heaven, hell, or divine order is real, atheists must be equally free to say those claims are fictional, unproven, and rejected.</p>
+          <p>The hope is that atheists can regain public dignity and speak without legal, social, or cultural shackles built to protect privileged belief systems. Freedom of expression should not mean freedom for religion and caution for everyone else. It should mean equal freedom for belief and disbelief, with the same boundary for all: no direct threat, harassment, violence, or targeted harm against individuals.</p>
+          <p style="margin-bottom: 0;">Respect does not mean giving religion a throne. It means giving every person equal standing. Religious belief may speak. Atheistic rejection may answer. Laws should protect that equality, not preserve the privilege of one fantasy over another.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 07</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Why does the site call religion fantasy?</h3>
+          </div>
+          <p style="margin-bottom: 0;">The site uses â€œfantasyâ€ for belief systems built around claims that cannot be verified as reality. That includes gods, spirits, revelation, divine command, sacred stories, afterlife systems, miracles, cosmic purpose, and similar claims. The site does not say people must stop imagining. It says imagination should not become law, authority, immunity, or unquestionable truth.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 08</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Does the site think all fantasies should be treated equally?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Yes. All fantasies should stand on equal footing. A religious fantasy should not receive more legal protection, cultural immunity, or political power than any other imagined framework. If one worldview can be expressed, others can be expressed. If one worldview can be criticized, all worldviews can be criticized.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 09</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What does â€œno special privilegeâ€ mean?</h3>
+          </div>
+          <p style="margin-bottom: 0;">It means no religion, ideology, myth, movement, party, identity, or organized belief system should sit above others by law or culture. No fantasy should gain automatic authority because it is old, popular, sacred, emotional, revolutionary, traditional, or followed by millions. Public life should answer to evidence, rights, consequences, and accountability.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 10</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Does the site oppose religious people?</h3>
+          </div>
+          <p style="margin-bottom: 0;">No. The site criticizes religious ideas, doctrines, institutions, and organized belief systems. It does not treat believers as targets. A person must not be threatened, harassed, attacked, or stripped of dignity because of belief or disbelief. Ideas can be hit hard. Individuals must be protected.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 11</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">How does the site handle freedom of expression, blasphemy, and hate-speech limits?</h3>
+          </div>
+          <p>The site supports freedom of thought, speech, criticism, satire, disagreement, and open rejection of ideas. People should be free to question religion, ideology, tradition, political identity, social movements, and inherited authority.</p>
+          <p>That freedom has a hard boundary. Speech should not become direct threat, harassment, violence, or targeted harm against an individual. Criticizing Islam, Hinduism, Christianity, atheism, nationalism, liberalism, conservatism, or any other collective system is different from threatening a person.</p>
+          <p>The site rejects blasphemy-law logic because it protects ideas from people instead of protecting people from harm. Once a religion, ideology, movement, or collective identity gains protection from criticism, society starts treating doctrine as authority. That is the danger.</p>
+          <p>It also rejects using hate-speech logic as a shield for institutions, religions, ideologies, parties, movements, or collective identities. Organized beliefs often turn criticism into â€œoffense,â€ â€œhate,â€ or â€œblasphemy.â€ Sometimes the law does not even name the protected idea directly. It may use softer words, public-order language, religious-sentiment language, national-culture language, or community-harmony language. The result can still be the same: the institution avoids scrutiny, while the individual loses speech.</p>
+          <p style="margin-bottom: 0;">No worldview should receive immunity because it is religious, liberal, conservative, left-wing, right-wing, nationalist, progressive, traditional, revolutionary, popular, old, sacred, or emotionally important to a group. People need protection. Doctrines need scrutiny.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 12</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Why does the site separate individuals from groups?</h3>
+          </div>
+          <p>Because the individual is weak compared to the collective. A single person can be isolated, punished, threatened, exposed, or silenced. That person needs protection.</p>
+          <p style="margin-bottom: 0;">Groups are different. Religions, parties, institutions, movements, and collective identities can shape law, education, culture, family life, media, and public behavior. They hold power. Power must be questioned.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 13</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Can groups be criticized?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Yes. Groups must be criticized. Religions, ideologies, political movements, activist groups, national identities, cultural traditions, and institutions all need scrutiny. A society that protects every collective from criticism becomes intellectually locked. Protecting people does not mean protecting every group story. The person has dignity. The doctrine does not.</p>
+        </article>
+
+        <article class="feature-card" style="border-left: 4px solid var(--accent, #a855f7);">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 14</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What is the siteâ€™s basic rule?</h3>
+          </div>
+          <div style="display: flex; flex-direction: column; gap: 0.5rem; font-weight: 600; font-style: italic; color: var(--text-muted);">
+            <p style="margin: 0;">Private fantasy is allowed. Public authority must be earned.</p>
+            <p style="margin: 0;">Personal belief is protected. Institutional privilege is not.</p>
+            <p style="margin: 0;">Individuals deserve protection. Groups deserve scrutiny.</p>
+            <p style="margin: 0;">No fantasy, religious or secular, old or new, popular or marginal, should stand above the others.</p>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 15</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Why does the site focus on Bangladesh and South Asia?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Bangladesh and South Asia give the site a sharp testing ground. Religion, family life, law, education, politics, minority status, secular identity, and public speech often collide there. The site uses that regional pressure to examine bigger questions about belief, authority, freedom, and social control.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 16</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What languages does the site use?</h3>
+          </div>
+          <p>The site attempts to publish in major useful languages where possible, especially English, Bengali, and Bengali in Latin script. English helps the material reach wider international readers. Bengali keeps the work connected to its main regional audience. Bengali in Latin script may appear when it helps readers who speak Bengali but prefer or need Roman-letter text for typing, searching, sharing, or informal reading.</p>
+          <p>The core parts of the site are structured across several language paths, including Bengali, English, Hindi, Arabic, German, and others shown in the site navigation. Active pages, however, will mostly appear in English, with some material also appearing in German, Bengali, or Bengali in Latin script depending on the subject, audience, and available writing or translation time. The author may also write in less commonly used languages when it fits the piece or the intended readers.</p>
+          <p style="margin-bottom: 0;">The goal is practical reach, not decorative multilingualism. Some texts need international clarity. Some need regional force. Some need local phrasing. The language follows the job.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 17</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">How are less common languages handled?</h3>
+          </div>
+          <p>Less common languages may appear when they serve a clear purpose. The site is not trying to translate every active page into every possible language at the same speed.</p>
+          <p>If the author writes in a less commonly used language, it is usually because that language fits the audience, the topic, the tone, or the intended reach of the piece. Some ideas land better in one language than another. Some communities read more easily in informal transliteration. Some political or cultural points need local phrasing rather than polished international wording.</p>
+          <p style="margin-bottom: 0;">The siteâ€™s language policy is practical: use the language that does the job. English helps with wider access. Bengali keeps the work rooted in its main regional context. Bengali in Latin script helps readers who speak Bengali but prefer Roman letters for typing, searching, or sharing. Other languages may appear when they make the material more reachable or more precise.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 18</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">What kind of society does the site argue for?</h3>
+          </div>
+          <p style="margin-bottom: 0;">The site argues for a society where people can think, speak, doubt, believe, disbelieve, and live without coercion. It does not want to ban fantasy. It wants to limit fantasyâ€™s power over public life. Imagination can belong to the person. Authority belongs to evidence, reason, rights, and accountability.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 19</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Can readers report errors or request changes?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Yes. If readers find factual errors, unclear wording, weak sourcing, formatting problems, or pieces that read too emotionally for the subject, they can contact the site and request correction, revision, or review. The siteâ€™s Terms describe editorial control over formatting, edits, restructuring, anonymization, archiving, and removal when needed. A correction request does not mean every demand will be accepted. It means the issue can be reviewed. Evidence matters. So does safety.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 20</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Can readers contribute articles or comments?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Yes. Readers can contribute material, but publication is not automatic. The site uses a submission-based model, and submitted work can be reviewed for relevance, clarity, sourcing, safety, and fit before publication. Short pieces can be submitted for the Comments section, with a suggested maximum of 1000 words. Personal Articles can be much longer, since they may need more space for lived experience, argument, context, and documentation.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 21</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">Will all comments and personal articles remain visible everywhere?</h3>
+          </div>
+          <p>Not always. For the time being, comments and personal articles may be restricted in certain countries or regions if local laws create serious risk around religion, blasphemy, hate-speech claims, political sensitivity, or speech that authorities choose to frame under another label.</p>
+          <p>This is not because the site accepts those laws as legitimate. It is because such laws often work as tools of silence. Sometimes they protect religion directly. Sometimes they protect something else while pretending not to. Sometimes the wording changes, but the effect stays the same.</p>
+          <p style="margin-bottom: 0;">The Terms warn that published material can carry real-world risk and that the platform may archive, alter, anonymize, or remove content when safety, legality, infrastructure, or operational limits require it. The site also cannot control copies made by search engines, archives, screenshots, mirrors, or third parties.</p>
+        </article>
+
+        <article class="feature-card">
+          <div style="display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <span class="gradient-text" style="font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em;">Q 22</span>
+            <h3 style="margin: 0; font-size: 1.5rem;">How can readers support the site?</h3>
+          </div>
+          <p style="margin-bottom: 0;">Readers can support the site by reading, sharing, discussing, translating, sending useful research, submitting relevant writing, reporting errors, or offering expertise. Direct financial support should not be listed as a support method because the Terms describe the platform as non-commercial and state that it rejects donations, digital currency gifts, grants, sponsorships, advertisements, tracking pixels, and user-data monetization.</p>
+        </article>
+
+      </div>

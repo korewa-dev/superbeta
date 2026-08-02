@@ -1,0 +1,2 @@
+hoved\content\d_eve\eko\name.md (hoved\pages\d_eve\eko.html)→        hoved\pages\d_eve\eko\name.html
+creation of .d files          -       change in eko.html     →        creation/update/deletion of name.html
