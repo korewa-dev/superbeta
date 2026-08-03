@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: korewa-dev/superbeta
-  branch: main
+  branch: master
 
 media_folder: "hoved/content/assets/uploads"
 public_folder: "/assets/uploads"

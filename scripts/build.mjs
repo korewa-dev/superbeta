@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 import { marked } from 'marked';
 
 const SRC = path.resolve('hoved');
-const OUT = path.resolve('../base_patched_site/hoved');
+const OUT = path.resolve('base_patched_site/hoved');
 const LOCALES_DIR = path.resolve('hoved/locales');
 const CARDS_PER_PAGE = 12;
 
@@ -477,7 +477,7 @@ async function build() {
   await fs.copy(SRC, OUT, {
     filter: src => {
       const rel = path.relative(SRC, src);
-      if (rel.startsWith('locales') || rel === 'index.html') return false;
+      if (rel.startsWith('locales') || rel === 'index.html' || rel.endsWith('.lnk')) return false;
       if (rel === 'pages/d_eve/index.html' || rel === 'pages/e_post/index.html') return false;
       return true;
     }
@@ -526,7 +526,22 @@ async function build() {
     console.log(`  ${col.slug}: ${articles.length} articles \u2192 ${pages} page(s)`);
   }
 
-  console.log('Done \u2192 ../base_patched_site/hoved/');
+  const redirect = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="0; url=pages/a_hus/en.html" />
+  <link rel="canonical" href="pages/a_hus/en.html" />
+  <title>Vanga Vitanastika</title>
+</head>
+<body>
+  <script>window.location.replace('pages/a_hus/en.html');</script>
+  <p><a href="pages/a_hus/en.html">Enter Vanga Vitanastika</a></p>
+</body>
+</html>`;
+  await fs.writeFile(path.join(OUT, 'index.html'), redirect);
+
+  console.log('Done \u2192 base_patched_site/hoved/');
 }
 
 build().catch(err => { console.error(err); process.exit(1); });

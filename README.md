@@ -28,6 +28,7 @@
 6. Deploy `base_patched_site`
 
 ## Hosting
+- **GitHub Pages**: the included `.github/workflows/deploy.yml` builds and publishes `base_patched_site/hoved` automatically on every push to `master`. Just enable Pages → Source "GitHub Actions" in repo settings.
 - Cloudflare Pages build command: `npm install && npm run build`
-- Cloudflare Pages output folder: `base_patched_site`
-- GitHub Pages: run build in GitHub Actions, then publish `base_patched_site`
+- Cloudflare Pages output folder: `base_patched_site/hoved`
+- Netlify build command: `npm install && npm run build`, publish directory: `base_patched_site/hoved`
