@@ -54,12 +54,6 @@ body {
   animation: bgShift 20s ease-in-out infinite;
 }
 
-/* Right-to-left support for Arabic & Urdu */
-html[lang="ar"], html[lang="ur"] { direction: rtl; }
-html[lang="ar"] .lang-menu a, html[lang="ur"] .lang-menu a,
-html[lang="ar"] .nav-top, html[lang="ur"] .nav-top,
-html[lang="ar"] .nav-inner, html[lang="ur"] .nav-inner { direction: rtl; }
-
 body.light {
   animation: bgShift 25s ease-in-out infinite;
 }
