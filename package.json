@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "watch": "chokidar \"hoved/content/**/*.md\" -c \"npm run build\" --initial --verbose",
-    "serve": "live-server base_patched_site/hoved --entry-file=pages/a_hus/en.html",
+    "serve": "live-server hoved --entry-file=pages/a_hus/en.html",
     "dev": "concurrently \"npm run watch\" \"npm run serve\""
   },
   "dependencies": {

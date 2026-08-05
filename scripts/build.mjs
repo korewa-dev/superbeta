@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 import { marked } from 'marked';
 
 const SRC = path.resolve('hoved');
-const OUT = path.resolve('base_patched_site/hoved');
+const OUT = path.resolve('hoved');
 const LOCALES_DIR = path.resolve('hoved/locales');
 const CARDS_PER_PAGE = 12;
 
@@ -472,16 +472,6 @@ async function translateStaticPage(sp, lang, t) {
 
 async function build() {
   console.log('Building site...');
-  await fs.remove(OUT);
-
-  await fs.copy(SRC, OUT, {
-    filter: src => {
-      const rel = path.relative(SRC, src);
-      if (rel.startsWith('locales') || rel === 'index.html' || rel.endsWith('.lnk')) return false;
-      if (rel === 'pages/d_eve/index.html' || rel === 'pages/e_post/index.html') return false;
-      return true;
-    }
-  });
 
   const STALE_ARTICLE_DIRS = COLLECTIONS.map(col => `pages/${col.activeGroup}/${col.slug}`);
   for (const d of STALE_ARTICLE_DIRS) {
@@ -541,7 +531,7 @@ async function build() {
 </html>`;
   await fs.writeFile(path.join(OUT, 'index.html'), redirect);
 
-  console.log('Done \u2192 base_patched_site/hoved/');
+  console.log('Done \u2192 hoved/');
 }
 
 build().catch(err => { console.error(err); process.exit(1); });
