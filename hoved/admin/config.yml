@@ -8,7 +8,7 @@ public_folder: "/assets/uploads"
 
 collections:
   - name: news
-    label: "📁 Events / News"
+    label: "📁 News"
     folder: hoved/content/d_eve/nytt
     create: true
     slug: "{{fields.title | slug}}"
@@ -18,7 +18,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
   - name: politics
-    label: "📁 Events / Politics"
+    label: "📁 Politics"
     folder: hoved/content/d_eve/lex
     create: true
     slug: "{{fields.title | slug}}"
@@ -28,7 +28,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
   - name: economy
-    label: "📁 Events / Economy"
+    label: "📁 Economy"
     folder: hoved/content/d_eve/eko
     create: true
     slug: "{{fields.title | slug}}"
@@ -38,7 +38,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
   - name: pen
-    label: "✍️ Posts / P_Articles"
+    label: "✍️ Articles"
     folder: hoved/content/e_post/pen
     create: true
     slug: "{{fields.title | slug}}"
@@ -48,7 +48,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
   - name: skriv
-    label: "💬 Posts / Comments"
+    label: "💬 Comments"
     folder: hoved/content/e_post/feed
     create: true
     slug: "{{fields.title | slug}}"
@@ -58,7 +58,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
   - name: si
-    label: "❓ Posts / Interviews"
+    label: "❓ Interviews"
     folder: hoved/content/e_post/qa
     create: true
     slug: "{{fields.title | slug}}"
