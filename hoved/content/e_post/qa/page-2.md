@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence Ethics2
+title: Artificial Intelligence Ethics
 description: As AI shapes decisions in hiring, medicine and law, questions of fairness, transparency and accountability become urgent. This article explores the principles guiding responsible AI development.
 ---
 
