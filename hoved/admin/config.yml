@@ -3,7 +3,7 @@ backend:
   repo: korewa-dev/superbeta
   branch: master
 
-media_folder: "hoved/content/assets/uploads"
+media_folder: "hoved/assets/uploads"
 public_folder: "/assets/uploads"
 
 collections:
