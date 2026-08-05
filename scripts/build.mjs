@@ -503,7 +503,12 @@ async function build() {
       articles.push({ title, desc, slug, body });
     }
 
-    articles.sort((a, b) => a.title.localeCompare(b.title));
+    articles.sort((a, b) => {
+      const numA = Number((a.slug.match(/(\d+)/) || [])[1] ?? NaN);
+      const numB = Number((b.slug.match(/(\d+)/) || [])[1] ?? NaN);
+      if (!Number.isNaN(numA) && !Number.isNaN(numB)) return numB - numA;
+      return a.title.localeCompare(b.title);
+    });
     const pages = Math.max(1, Math.ceil(articles.length / CARDS_PER_PAGE));
 
     for (let i = 1; i <= pages; i++) {
