@@ -1,14 +1,14 @@
 ---
-title: Artificial Intelligence Ethics
-description: As AI shapes decisions in hiring, medicine and law, questions of fairness, transparency and accountability become urgent. This article explores the principles guiding responsible AI development.
+title: Renewable Energy Future
+description: Solar, wind and other renewables are rapidly replacing fossil fuels as costs fall and technology improves. This article examines the energy transition and the obstacles that remain.
 ---
 
-Artificial intelligence now influences hiring, medicine, policing and the news we consume. Because these systems learn from data, they inherit the biases present in it, sometimes amplifying discrimination rather than removing it. This makes ethics a practical engineering concern, not an abstract philosophical one.
+The cost of solar and wind power has fallen so steeply over the past two decades that renewable energy is now the cheapest source of new electricity in most of the world. Countries including China, India and Bangladesh are expanding capacity at record speed, driven by climate urgency and economic advantage alike.
 
-## Core Concerns
+## The Evidence So Far
 
-Fairness asks whether outcomes are distributed justly across groups. Transparency asks whether people can understand why a system reached a decision. Accountability asks who is responsible when an AI causes harm — the developer, the operator, or the algorithm itself. None of these have simple answers.
+Grids are changing shape: batteries smooth out intermittent sunshine and wind, while smart networks balance supply and demand in real time. Each year, renewables account for a larger share of global generation. Climate science is clear that continued reliance on coal and oil locks in dangerous warming, making the transition a matter of necessity rather than preference.
 
-## Toward Responsible AI
+## What Still Stands in the Way
 
-Evidence-based approaches include auditing training data, testing models on diverse populations and keeping humans in meaningful oversight roles. Regulation is catching up worldwide, with rules requiring disclosure and impact assessments. A secular, humanist perspective values AI as a tool to serve people, not replace judgment. Progress depends on open scrutiny, public participation and a willingness to correct course when systems fall short of shared ethical standards.
+Challenges include energy storage, grid infrastructure and political resistance from incumbent industries. Financing remains unequal, with poorer nations struggling to attract investment. A humanist, evidence-based view holds that energy policy should follow the data. The question is no longer whether the transition will happen, but how fairly and how fast it can be achieved.

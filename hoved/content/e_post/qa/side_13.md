@@ -1,14 +1,14 @@
 ---
-title: Mental Health Awareness
-description: Mental health affects every society, yet stigma still keeps many people silent. This article explains why awareness matters and what evidence-based support looks like.
+title: Evolution of the Internet
+description: From a military research network to the connective tissue of modern life, the internet has transformed how we communicate, work and learn. This article traces its remarkable evolution.
 ---
 
-Mental health is as much a part of health as physical wellbeing, and the two are deeply connected. Depression and anxiety are among the leading causes of disability worldwide, affecting people across every culture, class and age. Yet in many communities, stigma prevents open conversation and discourages people from seeking the help they need.
+The internet began in the 1960s as ARPANET, a small United States research network funded by the military. Its breakthrough was packet switching, which let data travel in fragments across multiple routes, so the network could survive partial failure. In the 1990s the World Wide Web, invented by Tim Berners-Lee, added simple pages with clickable links, bringing this technical infrastructure to ordinary people.
 
-## Why Awareness Matters
+## The Networked World
 
-Awareness replaces shame with understanding. When we recognise that conditions like depression are illnesses with biological and social causes rather than personal weaknesses, we make it easier for people to speak up and seek treatment. Educating families, workplaces and schools reduces isolation and can make the difference between suffering alone and recovering with support.
+Email, search engines, social media and mobile broadband followed, connecting billions. Distance collapsed: families converse across continents, students access libraries their grandparents never could, and markets operate around the clock. The internet also changed knowledge itself, making information abundant while raising new questions about trust, misinformation and attention.
 
-## What Works
+## Challenges and Directions
 
-Evidence-based care includes therapy, medication when appropriate, exercise, sleep and strong social connection. Community mental-health programmes and helplines save lives where clinical services are scarce. A secular, humanist approach treats mental illness with the same seriousness and compassion as physical illness: rooted in science, free of moral judgement, and committed to the dignity of every person.
+Centralisation, surveillance and the spread of false content now test the open web's founding ideals. Debates over neutrality, privacy and platform accountability will shape its next chapter. The internet is not magic; it is engineered by people and can be improved by people. Its history shows that open, public institutions matter as much as brilliant technology.

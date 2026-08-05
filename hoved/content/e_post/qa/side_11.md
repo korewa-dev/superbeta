@@ -1,14 +1,14 @@
 ---
-title: Minimalist Lifestyle Guide
-description: Minimalism is about owning fewer things to make room for what matters. This article offers a practical, evidence-based guide to decluttering without turning simplicity into an ideology.
+title: Mental Health Awareness
+description: Mental health affects every society, yet stigma still keeps many people silent. This article explains why awareness matters and what evidence-based support looks like.
 ---
 
-Minimalism is often misunderstood as owning as little as possible. In practice it is a deliberate choice to keep only what adds genuine value, freeing time, money and attention for relationships, health and meaningful work. It is a tool for living well, not an aesthetic contest.
+Mental health is as much a part of health as physical wellbeing, and the two are deeply connected. Depression and anxiety are among the leading causes of disability worldwide, affecting people across every culture, class and age. Yet in many communities, stigma prevents open conversation and discourages people from seeking the help they need.
 
-## Where to Start
+## Why Awareness Matters
 
-Begin with one area, such as clothes or books. Sort items by how often you use them and what they contribute, rather than by their potential future use. Ask whether each object earns its place in your home. Reducing purchases is as important as removing possessions; waiting a week before buying gives desire time to fade.
+Awareness replaces shame with understanding. When we recognise that conditions like depression are illnesses with biological and social causes rather than personal weaknesses, we make it easier for people to speak up and seek treatment. Educating families, workplaces and schools reduces isolation and can make the difference between suffering alone and recovering with support.
 
-## The Real Benefits
+## What Works
 
-Research links clutter with higher stress and difficulty concentrating, while intentional simplicity supports better mood and clearer decision-making. Minimalism works best when grounded in your own values rather than in influencers' ideals. The goal is not deprivation but alignment — a home and habits that reflect what you actually care about, held lightly and revised whenever life changes.
+Evidence-based care includes therapy, medication when appropriate, exercise, sleep and strong social connection. Community mental-health programmes and helplines save lives where clinical services are scarce. A secular, humanist approach treats mental illness with the same seriousness and compassion as physical illness: rooted in science, free of moral judgement, and committed to the dignity of every person.

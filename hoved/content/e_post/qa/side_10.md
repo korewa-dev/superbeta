@@ -1,14 +1,14 @@
 ---
-title: Space Exploration Milestones
-description: From Sputnik to Mars rovers, space exploration reflects human curiosity at its most ambitious. This article traces the key milestones that carried humanity beyond its own planet.
+title: Blockchain Explained Simply
+description: Blockchain is the technology behind cryptocurrency, but its uses go far beyond it. This article breaks down how it works and separates its genuine potential from the hype.
 ---
 
-In 1957 the Soviet Union launched Sputnik, the first artificial satellite, opening the space age. Twelve years later Apollo 11 put humans on the Moon, a feat of engineering and courage watched by half a billion people. These early milestones were driven by cold-war rivalry, but their legacy is shared scientific achievement.
+A blockchain is a shared digital ledger that records transactions in connected blocks, each one chained to the last. Copies are held across many computers rather than one central authority, which is why it is called a distributed ledger. Once recorded, changing a block requires altering every later block on most copies, making tampering difficult.
 
-## Expanding the Frontier
+## Why It Matters
 
-Robotic explorers have since travelled much further. Probes have flown past every planet, landed rovers on Mars and delivered telescopes that read the light from the universe's first galaxies. The International Space Station has hosted continuous human presence in orbit for over two decades, supporting research impossible on Earth.
+Because no single party controls the record, blockchain can provide trust without a bank or government as intermediary. This underpins cryptocurrencies like Bitcoin and enables smart contracts that execute automatically when conditions are met. Proposed uses include supply-chain tracking, land registries and verifiable identity documents.
 
-## What Comes Next
+## A Balanced View
 
-Plans to return to the Moon and eventually reach Mars now involve private companies alongside national agencies. Space exploration shows what evidence-based ambition can accomplish when resources and cooperation align. It also reminds us that curiosity about the cosmos is not a threat to earthly concerns but a genuine expression of our capacity for reason and discovery.
+Despite the promise, blockchains are slow and energy-hungry compared with ordinary databases, and many projects overstate their usefulness. A critical, evidence-based approach asks what problem blockchain actually solves before adopting it. Where record-keeping by a trusted institution works well, it usually remains simpler. Blockchain is genuinely interesting; it is not automatically the right answer, and that distinction deserves respect.

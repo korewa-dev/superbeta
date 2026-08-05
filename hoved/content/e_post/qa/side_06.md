@@ -1,14 +1,14 @@
 ---
-title: Renewable Energy Future
-description: Solar, wind and other renewables are rapidly replacing fossil fuels as costs fall and technology improves. This article examines the energy transition and the obstacles that remain.
+title: Digital Privacy Basics
+description: Everyday apps and websites collect vast amounts of personal data. This article explains how tracking works and the practical steps anyone can take to protect their digital privacy.
 ---
 
-The cost of solar and wind power has fallen so steeply over the past two decades that renewable energy is now the cheapest source of new electricity in most of the world. Countries including China, India and Bangladesh are expanding capacity at record speed, driven by climate urgency and economic advantage alike.
+Every search, purchase and message generates data that companies collect, analyse and sometimes sell. Many services are free only because personal information is the real product. Understanding how this works is the first step to meaningful privacy, and it requires no technical degree.
 
-## The Evidence So Far
+## How Your Data Is Collected
 
-Grids are changing shape: batteries smooth out intermittent sunshine and wind, while smart networks balance supply and demand in real time. Each year, renewables account for a larger share of global generation. Climate science is clear that continued reliance on coal and oil locks in dangerous warming, making the transition a matter of necessity rather than preference.
+Trackers follow you across websites, apps log your location and behaviour, and social platforms build detailed profiles from your activity. Much of this happens invisibly, often buried in lengthy terms you never read. Legislation in many countries has begun to force transparency and consent, but laws cannot substitute for personal awareness.
 
-## What Still Stands in the Way
+## Practical Steps
 
-Challenges include energy storage, grid infrastructure and political resistance from incumbent industries. Financing remains unequal, with poorer nations struggling to attract investment. A humanist, evidence-based view holds that energy policy should follow the data. The question is no longer whether the transition will happen, but how fairly and how fast it can be achieved.
+Start with small habits: use unique passwords and a password manager, enable two-factor authentication, adjust privacy settings and limit app permissions. Consider privacy-respecting browsers and search engines. Treat requests for data as something to question rather than accept. A secular, critical mindset applies here too: digital privacy is not about hiding wrongdoing but about retaining control over your own identity and autonomy.

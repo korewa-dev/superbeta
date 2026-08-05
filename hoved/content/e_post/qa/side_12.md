@@ -1,14 +1,14 @@
 ---
-title: Blockchain Explained Simply
-description: Blockchain is the technology behind cryptocurrency, but its uses go far beyond it. This article breaks down how it works and separates its genuine potential from the hype.
+title: Climate Change Impacts
+description: Rising temperatures are already altering weather, agriculture and coastlines. This article summarises the measured impacts of climate change and why the evidence demands urgent action.
 ---
 
-A blockchain is a shared digital ledger that records transactions in connected blocks, each one chained to the last. Copies are held across many computers rather than one central authority, which is why it is called a distributed ledger. Once recorded, changing a block requires altering every later block on most copies, making tampering difficult.
+The scientific consensus is unambiguous: human activity, mainly the burning of fossil fuels, is warming the planet. Global average temperature has risen roughly 1.1 degrees Celsius since pre-industrial times, and the effects are no longer projections. They are measured realities.
 
-## Why It Matters
+## Observed Consequences
 
-Because no single party controls the record, blockchain can provide trust without a bank or government as intermediary. This underpins cryptocurrencies like Bitcoin and enables smart contracts that execute automatically when conditions are met. Proposed uses include supply-chain tracking, land registries and verifiable identity documents.
+Extreme weather events — floods, heatwaves, droughts and cyclones — are becoming more frequent and severe. Sea levels are rising, threatening coastal cities and low-lying nations, including Bangladesh. Agricultural yields in many regions are declining, while changing rainfall patterns disrupt water supplies. These impacts fall hardest on people who contributed least to the problem.
 
-## A Balanced View
+## The Case for Action
 
-Despite the promise, blockchains are slow and energy-hungry compared with ordinary databases, and many projects overstate their usefulness. A critical, evidence-based approach asks what problem blockchain actually solves before adopting it. Where record-keeping by a trusted institution works well, it usually remains simpler. Blockchain is genuinely interesting; it is not automatically the right answer, and that distinction deserves respect.
+Every fraction of additional warming increases risk, which is why scientists stress cutting emissions rapidly. Adaptation, such as flood defences and resilient crops, is equally necessary. Climate change is a collective human problem with a human-made cause, and its solutions lie in the same rational cooperation that created modern science. Denial helps no one; evidence, honestly faced, still points a way forward.

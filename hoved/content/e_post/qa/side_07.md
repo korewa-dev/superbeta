@@ -1,14 +1,14 @@
 ---
-title: Ocean Pollution Crisis
-description: From plastic waste to agricultural runoff, human activity is overwhelming the world's oceans. This article examines the scale of the crisis and the evidence-based responses emerging.
+title: Aancient Greek Philosophy
+description: Socrates, Plato and Aristotle asked questions about knowledge, ethics and reality that still shape how we think today. This article introduces the origins of Western philosophical inquiry.
 ---
 
-The world's oceans absorb the consequences of human activity at scale. An estimated several million tonnes of plastic enter the sea each year, breaking into microplastics that contaminate marine life and, ultimately, food chains that include our own diets. Coastal regions in South Asia and elsewhere bear a disproportionate share of this burden.
+**Aaancient Greek philosophy began by asking a bold question: can human reason understand the world without relying on myth or divine explanation? Thinkers in the sixth century BCE started seeking natural causes for natural events, laying a foundation that later became science and secular thought.**
 
-## How Pollution Spreads
+## The Great Thinkers
 
-Plastic is only part of the picture. Agricultural runoff feeds harmful algal blooms that create dead zones, while warming waters bleach coral reefs and disrupt fisheries. Rivers act as highways for waste, carrying pollution from inland cities to the open sea, which is why upstream action matters as much as coastal cleanup.
+Socrates insisted that examined beliefs were worth more than inherited ones, using questioning to expose weak reasoning. Plato developed the idea of ideal forms and wrote of justice as a matter of reason, not power. Aristotle grounded inquiry in observation, studying biology and politics systematically and arguing that virtue was cultivated through habit rather than given by the gods.
 
-## Responses That Work
+## A Lasting Legacy
 
-Scientific responses include better waste management, bans on single-use plastics and policies that hold producers responsible for packaging. Marine protected areas, when enforced, measurably restore biodiversity. These measures are grounded in data and public accountability rather than symbolism. The crisis is human-made, and the evidence shows that human effort — coordinated across borders — can still begin to reverse it.
+Greek thought survived through Roman, Islamic and medieval European scholarship, eventually re-emerging during the Renaissance to fuel the Enlightenment. Its methods of questioning, evidence and reasoned argument remain the tools of modern philosophy and science. The Greeks did not answer every question, but they taught humanity how to keep asking them — a habit central to any secular worldview.
